@@ -1,3 +1,6 @@
 # learn-git
 A repository for students to learn basic functionality of git
-Shreya Malviya
+## Contributors:
+
+ - Harshit Joshi
+  - Shreya Malviya
