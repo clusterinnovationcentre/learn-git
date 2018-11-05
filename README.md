@@ -1,6 +1,6 @@
 # learn-git
 A repository for students to learn basic functionality of git
 
-## Contributor
-
+## Contributors:
  - Gwzwnglai 
+ - Harshit Joshi
