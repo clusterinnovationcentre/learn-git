@@ -3,4 +3,4 @@ A repository for students to learn basic functionality of git
 ## Contributors:
 
  - Harshit Joshi
-  - Shreya Malviya (aaaand... again!)
+  - Shreya Malviya (aaaand... once again!)
