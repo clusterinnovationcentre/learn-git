@@ -1,8 +1,6 @@
-# Anime List
- - Check List of to watch anime
+# learn-git
+A repository for students to learn basic functionality of git
 
-### My Hero Academia s3
+## Contributors:
 
- [] Deku
-
- [x] Plus Ultra
+ - Pirate King
