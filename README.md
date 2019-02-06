@@ -1,6 +1,7 @@
-# learn-git
-A repository for students to learn basic functionality of git
+# Anime List
+ - Check List of to watch anime
 
-## Contributors:
+### My Hero Academia s3
 
- - Harshit Joshi
+ [] Deku
+ [x] Plus Ultra
