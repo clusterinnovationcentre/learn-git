@@ -4,5 +4,9 @@ A repository for students to learn basic functionality of git
 ## Contributors:
 
  - Harshit Joshi
- Yamini Shrestha
+
+prateek Bansal
+
+Yamini Shrestha
+
 
