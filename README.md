@@ -8,4 +8,5 @@ A repository for students to learn basic functionality of git
  - Hitesh Gautam
  - Yamini Shrestha
  - Shashank Aggarwal
- 
+ - Harshit Joshi (2) 
+
