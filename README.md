@@ -2,6 +2,7 @@
 A repository for students to learn basic functionality of git
 
 ## Contributors:
+ - Shivam Kanaujia
  - Gwzwnglai 
  - Harshit Joshi
  - Yatharth Rai
@@ -10,4 +11,5 @@ A repository for students to learn basic functionality of git
  - Hemant Kumar
  - Naman
  - Harshit Joshi (2) 
+
 
