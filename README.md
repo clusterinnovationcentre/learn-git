@@ -9,3 +9,4 @@ A repository for students to learn basic functionality of git
  - Yamini Shrestha
  - Vinamra Jain
  - Vivaan Sharma
+ - Harshit Joshi (2) 
