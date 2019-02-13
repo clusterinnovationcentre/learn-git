@@ -7,4 +7,5 @@ A repository for students to learn basic functionality of git
  - Yatharth Rai
  - Hitesh Gautam
  - Yamini Shrestha
- - Harshit Joshi (2) 
+ - Aanchal Verma
+ - Harshit Joshi9 (2)
