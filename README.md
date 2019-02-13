@@ -10,4 +10,5 @@ A repository for students to learn basic functionality of git
  - Hemant Kumar
  - Naman
  - Harshit Joshi (2) 
+ - AAkakarot
 
